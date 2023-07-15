@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(227, 192, 192);
+}
+* {
+  line-height: 2;
+}
+h1 {
+  text-align: center;
+  margin-left: 40px;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+li a {
+  padding: 0.1em;
+  background-color: #bd71711b;
+  color: #6f7649;
+  font-size: 50px;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+  background-color: rgba(223, 207, 207, 0.76);
+}
