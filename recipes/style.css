@@ -1,0 +1,14 @@
+* {
+  line-height: 1.5;
+  margin-left: 5px;
+}
+h1 a {
+  background-color: #bd71711b;
+  color: #7b475c;
+  font-size: 50px;
+  text-decoration: none;
+}
+h1 a:hover {
+  text-decoration: underline;
+  background-color: rgba(243, 181, 230, 0.76);
+}
